@@ -1,0 +1,51 @@
+2016-04-11 15:55:09,205  INFO [main] SingleMeetingIE:49 - Browser opened
+ 2016-04-11 15:56:22,497  INFO [main] SingleMeetingIE:49 - Browser opened
+ 2016-05-03 17:29:04,605 ERROR [main] SingleMeetingIE:118 - Server is restarting
+ 2016-05-09 10:50:50,970  INFO [Forwarding getAlertText on session a9617e04-93c6-44b6-8c62-56dbe7ddb3c6 to remote] RetryExec:96 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+ 2016-05-09 10:50:50,972  INFO [Forwarding getAlertText on session a9617e04-93c6-44b6-8c62-56dbe7ddb3c6 to remote] RetryExec:112 - Retrying request to {}->http://127.0.0.1:7055
+ 2016-05-17 14:11:54,896 ERROR [main] SingleMeetingIE:171 - Meeting not scheduled
+ 2016-05-17 14:13:07,551  INFO [main] SingleMeetingIE:167 - Meeting scheduled successfully
+ 2016-05-17 14:15:29,213 ERROR [main] SingleMeetingIE:171 - Meeting not scheduled
+ 2016-05-17 14:17:03,556 ERROR [main] SingleMeetingIE:172 - Meeting not scheduled
+ 2016-05-17 14:18:11,855 ERROR [main] SingleMeetingIE:172 - Meeting not scheduled
+ 2016-05-17 14:19:45,749 ERROR [main] SingleMeetingIE:172 - Meeting not scheduled
+ 2016-05-17 14:25:38,294 ERROR [main] SingleMeetingIE:172 - Meeting not scheduled
+ 2016-05-17 14:27:17,805 ERROR [main] SingleMeetingIE:172 - Meeting not scheduled
+ 2016-05-17 14:27:32,492 ERROR [main] SingleMeetingIE:172 - Meeting not scheduled
+ 2016-05-17 14:30:16,208 ERROR [main] SingleMeetingIE:173 - Meeting not scheduled
+ 2016-05-17 14:31:25,184 ERROR [main] SingleMeetingIE:173 - Meeting not scheduled
+ 2016-05-17 14:35:09,509 ERROR [main] SingleMeetingIE:173 - Meeting not scheduled
+ 2016-05-17 15:33:51,417 ERROR [main] SingleMeetingIE:173 - Meeting not scheduled
+ 2016-05-17 15:34:51,892  INFO [main] SingleMeetingIE:169 - Meeting scheduled successfully
+ 2016-05-17 15:36:56,420 ERROR [main] SingleMeetingIE:170 - Meeting not scheduled
+ 2016-05-17 15:38:04,703  INFO [main] SingleMeetingIE:166 - Meeting scheduled successfully
+ 2016-05-17 15:39:35,329  INFO [main] SingleMeetingIE:167 - Meeting scheduled successfully
+ 2016-05-17 15:47:35,794 ERROR [main] SingleMeetingIE:111 - Server is restarting
+ 2016-05-17 15:52:48,282  INFO [main] SingleMeetingIE:161 - Meeting scheduled successfully
+ 2016-05-17 15:53:19,404 ERROR [main] SingleMeetingIE:203 - Meeting not edited
+ 2016-05-17 15:54:47,453  INFO [main] SingleMeetingIE:161 - Meeting scheduled successfully
+ 2016-05-17 15:55:07,071 ERROR [main] SingleMeetingIE:203 - Meeting not edited
+ 2016-05-17 15:55:44,811  INFO [main] SingleMeetingIE:161 - Meeting scheduled successfully
+ 2016-05-17 15:55:54,194  INFO [main] SingleMeetingIE:199 - Meeting edited successfully
+ 2016-05-17 15:55:58,784  INFO [main] SingleMeetingIE:230 - Meeting deleted successfully
+ 2016-05-17 15:58:12,006  INFO [Forwarding getAlertText on session d12b1a8b-38bc-4ce9-b5a3-d3907274deac to remote] RetryExec:96 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+ 2016-05-17 15:58:12,008  INFO [Forwarding getAlertText on session d12b1a8b-38bc-4ce9-b5a3-d3907274deac to remote] RetryExec:112 - Retrying request to {}->http://127.0.0.1:7055
+ 2016-05-17 15:59:41,973  INFO [main] RecMeetingIE:180 - Meeting scheduled successfully
+ 2016-05-17 15:59:54,638  INFO [main] RecMeetingIE:224 - Meeting edited successfully
+ 2016-05-17 16:00:31,225 ERROR [main] RecMeetingIE:260 - Meeting not deleted
+ 2016-05-17 17:32:16,276  INFO [main] SingleMeetingIE:170 - Meeting scheduled successfully
+ 2016-05-17 17:32:35,511  INFO [main] SingleMeetingIE:231 - Meeting edited successfully
+ 2016-05-17 17:32:40,251  INFO [main] SingleMeetingIE:264 - Meeting deleted successfully
+ 2016-05-18 14:28:53,220  INFO [main] SingleMeetingIE:161 - Meeting scheduled successfully
+ 2016-05-18 14:29:04,281  INFO [main] SingleMeetingIE:199 - Meeting edited successfully
+ 2016-05-18 14:29:09,794  INFO [main] SingleMeetingIE:230 - Meeting deleted successfully
+ 2016-05-18 14:29:53,575  INFO [main] RecMeetingIE:180 - Meeting scheduled successfully
+ 2016-05-18 14:30:09,565  INFO [main] RecMeetingIE:224 - Meeting edited successfully
+ 2016-05-18 14:30:19,234  INFO [main] RecMeetingIE:256 - Meeting deleted successfully
+ 2016-05-18 14:31:00,243  INFO [main] SingleMeetingIE:170 - Meeting scheduled successfully
+ 2016-05-18 14:31:22,905  INFO [main] SingleMeetingIE:231 - Meeting edited successfully
+ 2016-05-18 14:31:28,969  INFO [main] SingleMeetingIE:264 - Meeting deleted successfully
+ 2016-05-18 14:59:06,015  INFO [main] WebexRecIE:184 - Created Rec webex Meeting
+ 2016-05-18 14:59:28,156  INFO [main] WebexRecIE:245 - Edited Rec webex Meeting
+ 2016-05-18 14:59:32,323  INFO [main] WebexRecIE:277 - Deleted Rec webex Meeting
+ 
